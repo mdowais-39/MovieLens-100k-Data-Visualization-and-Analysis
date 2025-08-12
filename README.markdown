@@ -5,7 +5,7 @@
 ## 🌟 Overview
 Welcome to the MovieLens 100k Data Visualization Project! This repository houses an engaging R-based analysis of the classic MovieLens 100k dataset. Dive into the world of movie ratings, user demographics, and genre trends through a series of insightful visualizations created with ggplot2.
 
-Whether you're a data enthusiast, a film buff, or just curious about user preferences in movies, this project uncovers patterns like average ratings by genre, gender differences in tastes, age group preferences, and even how genre popularity evolves over time. All visualizations include a subtle "Owais" annotation as a watermark.
+Whether you're a data enthusiast, a film buff, or just curious about user preferences in movies, this project uncovers patterns like average ratings by genre, gender differences in tastes, age group preferences, and even how genre popularity evolves over time. All visualizations include a subtle annotation as a watermark.
 
 ## 📊 Dataset
 The [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/) is a staple in recommendation systems research. It includes:
@@ -58,7 +58,7 @@ All plots are generated in `Lab_1.R` and can be customized further.
 ## 🛠️ Setup Instructions
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/movielens-100k-viz.git
+   git clone [https://github.com/mdowais-39/MovieLens-100k-Data-Visualization-and-Analysis]
    cd movielens-100k-viz
    ```
 
